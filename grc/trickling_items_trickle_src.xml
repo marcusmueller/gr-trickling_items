@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<block>
+  <name>trickle_src</name>
+  <key>trickling_items_trickle_src</key>
+  <category>trickling_items</category>
+  <import>import trickling_items</import>
+  <make>trickling_items.trickle_src()</make>
+  <source>
+    <name>out</name>
+    <type>byte</type>
+  </source>
+</block>
